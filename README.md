@@ -1,2 +1,2 @@
-# InstaProfile1
+# InstaProfile
 Created with CodeSandbox
